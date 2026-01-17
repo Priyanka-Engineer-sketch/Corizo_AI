@@ -10,7 +10,7 @@ from src.recommendation import recommend_songs
 
 
 # Load and preprocess data
-df, df_features, scaled = load_and_preprocess("data/spotify_data.csv")
+df, df_features, scaled = load_and_preprocess("Corizo_AI/data/spotify_data.csv")
 
 
 # Exploratory Data Analysis
